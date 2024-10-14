@@ -1,0 +1,28 @@
+mat-card {
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.images {
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: center;
+}
+
+img {
+  max-height: 20em;
+  max-width: 20em;
+}
+
+.odskocznia-true {
+  background-color: #27ae60;
+}
+
+.odskocznia-false {
+  background-color: #e74c3c;
+}
